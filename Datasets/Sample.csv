@@ -1,0 +1,6 @@
+Name,Age,City,Salary
+Alice,25.0,New York,70000.0
+Bob,,Los Angeles,80000.0
+Charlie,30.0,,
+David,45.0,Chicago,120000.0
+Eve,,New York,95000.0
